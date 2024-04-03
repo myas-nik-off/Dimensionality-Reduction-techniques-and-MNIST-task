@@ -7,3 +7,5 @@ Using Principal Components Analyses (PCA) and t-Distributed Stochastic Neighbor 
 - What happens if we ignore principal components and simply pick two of the 784 dimensions to plot our data and labels?
 - Compare using all 784 dimensions. How does this look compared to the first visualization? How does using 35 dimensions stack up against all 784?
 - Experiment with different numbers of principal components (PCs), like just the first 5 to 10, to see how it affects visualisation.
+
+Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe.
